@@ -1,10 +1,10 @@
-Best Cars Dealership Review Portal
+# Best Cars Dealership Review Portal
 Welcome to the Best Cars Dealership Review Portal, a full-stack application designed to offer comprehensive reviews and information about car dealerships. This project leverages modern web technologies to provide a user-friendly and responsive web portal.
 
-Project Overview
+# Project Overview
 This application is built using Django for the backend and React for the frontend, providing a robust platform for users to register, login, and manage their sessions securely. It features a containerized backend with services written in Node.js, Express, and MongoDB, along with a sentiment analysis microservice deployed on IBM Cloud.
 
-Features
+# Features
 User Management: Register, login, and session management functionalities to ensure secure and seamless user access.
 Static Pages: Includes well-designed static pages like Homepage, About Us, and Contact Us using HTML, CSS, and Bootstrap.
 Containerized Services: Backend services are containerized using Docker, promoting easy deployment and scalability.
@@ -24,17 +24,7 @@ Docker
 Node.js
 Python
 MongoDB
-Installation
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/best-cars-dealership.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd best-cars-dealership
 Install dependencies:
 
 bash
