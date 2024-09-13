@@ -1,6 +1,3 @@
-Here is a comprehensive `README.md` documentation for your project based on the information provided:
-
-```markdown
 # Best Cars Dealership - Car Dealership Review Portal
 
 ## Table of Contents
