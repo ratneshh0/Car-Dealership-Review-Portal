@@ -230,9 +230,3 @@ Kubernetes will handle the scaling of the application based on user traffic and 
 
 We welcome contributions to improve this project. Please submit a pull request or open an issue to get involved.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` is structured to cover all major aspects of your project, including setup, deployment, and features, ensuring it's both descriptive and useful for potential collaborators or users.
