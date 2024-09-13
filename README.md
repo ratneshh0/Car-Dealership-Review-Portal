@@ -26,8 +26,7 @@ Python
 MongoDB
 
 # Installion:
-Clone the repository:
-    git clone https://github.com/yourusername/best-cars-dealership.git
+
 
 Navigate to the project directory: 
     cd best-cars-dealership
