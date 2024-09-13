@@ -25,33 +25,51 @@ Node.js
 Python
 MongoDB
 
+# Installion:
+Clone the repository:
+    git clone https://github.com/yourusername/best-cars-dealership.git
+
+Navigate to the project directory: 
+    cd best-cars-dealership
+
 Install dependencies:
+    cd backend
+    npm install
+   cd ../frontend
+  npm install
 
-bash
-Copy code
-# Install backend dependencies
-cd backend
-npm install
-
-# Install frontend dependencies
-cd ../frontend
-npm install
 Set up environment variables:
 
 Create a .env file in the backend directory.
 Add necessary configurations such as DATABASE_URL, SECRET_KEY, etc.
 Run the application:
 
-bash
-Copy code
-# Start the backend
+
+
+
+cd backend
+npm install
+
+
+cd ../frontend
+npm install
+Set up environment variables:
+
+
+Create a .env file in the backend directory.
+Add necessary configurations such as DATABASE_URL, SECRET_KEY, etc.
+Run the application:
+
+
+
 npm start
 
-# In another terminal, start the frontend
 cd ../frontend
 npm start
+
+
 Documentation
-Further documentation is available in the docs folder.
+
 
 Contributing
 We welcome contributions to the Best Cars Dealership Review Portal. Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
